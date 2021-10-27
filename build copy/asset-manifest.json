@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/DecaMovieWebApp/static/js/main.f30c41ba.chunk.js",
+    "main.js.map": "/DecaMovieWebApp/static/js/main.f30c41ba.chunk.js.map",
+    "runtime-main.js": "/DecaMovieWebApp/static/js/runtime-main.5dc5d840.js",
+    "runtime-main.js.map": "/DecaMovieWebApp/static/js/runtime-main.5dc5d840.js.map",
+    "static/js/2.733443f9.chunk.js": "/DecaMovieWebApp/static/js/2.733443f9.chunk.js",
+    "static/js/2.733443f9.chunk.js.map": "/DecaMovieWebApp/static/js/2.733443f9.chunk.js.map",
+    "index.html": "/DecaMovieWebApp/index.html",
+    "static/js/2.733443f9.chunk.js.LICENSE.txt": "/DecaMovieWebApp/static/js/2.733443f9.chunk.js.LICENSE.txt",
+    "static/media/no_image.22d2aa4d.jpg": "/DecaMovieWebApp/static/media/no_image.22d2aa4d.jpg",
+    "static/media/search-icon.cd820f5a.svg": "/DecaMovieWebApp/static/media/search-icon.cd820f5a.svg",
+    "static/media/tmdb_logo.f15b6632.svg": "/DecaMovieWebApp/static/media/tmdb_logo.f15b6632.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dc5d840.js",
+    "static/js/2.733443f9.chunk.js",
+    "static/js/main.f30c41ba.chunk.js"
+  ]
+}
